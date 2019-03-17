@@ -8,8 +8,8 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/rumyantseva/advent-2017/handlers"
-	"github.com/rumyantseva/advent-2017/version"
+	"github.com/bmutziu/advent-2017/handlers"
+	"github.com/bmutziu/advent-2017/version"
 )
 
 // How to try it: PORT=8000 go run main.go
